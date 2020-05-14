@@ -22,6 +22,22 @@ const data = [
     image: "./img/pic4.jpg",
     text: "I'm scared a bit",
   },
+  {
+    image: "./img/pic5.jpg",
+    text: "I'm angry",
+  },
+  {
+    image: "./img/pic6.jpg",
+    text: "I'm not pleased",
+  },
+  {
+    image: "./img/pic7.jpg",
+    text: "I'm playful",
+  },
+  {
+    image: "./img/pic8.jpg",
+    text: "I'm peaceful",
+  },
 ];
 
 data.forEach(createBox);
